@@ -1,0 +1,16 @@
+.titulo-1{
+    color: brown;
+    background-color: blanchedalmond;
+    }
+    body{
+        background-image: url(https://st2.depositphotos.com/3326513/6416/v/450/depositphotos_64162393-stock-illustration-chef-icon-with-mustache-isolated.jpg);
+        background-size: contain; 
+    }
+    .button{
+        background-color: black;
+    }
+    .button p{
+        background-color: blue; 
+    }
+    
+
